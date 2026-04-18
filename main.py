@@ -121,7 +121,7 @@ class MainWindow(QMainWindow):
             QMainWindow, QWidget {
                 background: #1e2329;
                 color: #e6e6e6;
-                font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+                font-family: Roboto Mono, sans-serif;
             }
             QTextEdit {
                 background: #2a2f35;
